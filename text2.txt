@@ -2,3 +2,4 @@ this is 2nd github file.
 here we learn about git push and pull.
 My github teacher is Anisul Islam
 We Also Learn about Github Brancing.
+logo alignment bug is solved
